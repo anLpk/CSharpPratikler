@@ -12,9 +12,6 @@ namespace ConsoleProgramlama
             Console.WriteLine("Soyadinizi giriniz:");
             string surname = Console.ReadLine();
             Console.WriteLine($"Merhaba {name} {surname}");
-
-            DateTime dt = DateTime.Now;
-            Console.WriteLine(dt);
         }
     }
 }
