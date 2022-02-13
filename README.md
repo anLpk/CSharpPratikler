@@ -10,6 +10,16 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) C# 101 egitimi kapsaminda olus
 
 ### Tip Donusumleri
 
+### Hata Yonetimi ve Kod Izleme
+
+### Karar Yapilari
+
+### Donguler
+
+### Diziler
+
+### Metodlar
+
 ---
 
 ## Installation
