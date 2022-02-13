@@ -43,6 +43,9 @@ namespace TipDonusumleri
 
             sayi1 = Convert.ToInt32(s1);
             sayi2 = Convert.ToInt32(s2);
+
+            var pak = 232323232323232;
+            pak1 = Convert.ToString(pak);
         }
 
         public static void ParseMethod()
