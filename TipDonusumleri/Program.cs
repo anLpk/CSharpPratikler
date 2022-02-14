@@ -9,7 +9,7 @@ namespace TipDonusumleri
             // Implicit Conversion - Bilincsiz Donusum
             byte a = 5;
             sbyte b = 30;
-            shortt c = 10;
+            short c = 10;
 
             int d = a + b + c;
             System.Console.WriteLine("d:" + d);
@@ -45,7 +45,6 @@ namespace TipDonusumleri
             sayi2 = Convert.ToInt32(s2);
 
             var pak = 232323232323232;
-            pak1 = Convert.ToString(pak);
         }
 
         public static void ParseMethod()
@@ -56,7 +55,6 @@ namespace TipDonusumleri
             double double1;
 
             rakam1 = Int32.Parse(metin1);
-            rakam2 = Int32.Parse(metin2);
         }
     }
 }

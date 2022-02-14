@@ -15,7 +15,7 @@ class Program
                 toplam += sayac;
                 sayac++;
             }
-            Console.WriteLine(toplam / sayi);
+            Console.WriteLine(toplam / sayi1);
 
 
             char character = 'a';
