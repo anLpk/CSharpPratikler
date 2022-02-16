@@ -20,7 +20,7 @@ namespace Diziler
            
            Console.WriteLine("Lutfen dizinin eleman sayısıni giriniz");
            int diziUzunlugu = int.Parse(Console.ReadLine());
-           int[] sayiDizisi = new int[sayiDizisi];
+           int[] sayiDizisi = new int[diziUzunlugu];
 
            for (int i = 0; i < diziUzunlugu; i++)
            {
