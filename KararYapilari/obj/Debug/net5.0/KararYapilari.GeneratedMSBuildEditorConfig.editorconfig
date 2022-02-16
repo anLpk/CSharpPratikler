@@ -7,4 +7,8 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = KararYapilari
+<<<<<<< HEAD
 build_property.ProjectDir = c:\Users\anilp\CSharpPratikler\KararYapilari\
+=======
+build_property.ProjectDir = c:\Users\anil.pak\CSharpPratikler\KararYapilari\
+>>>>>>> 2fec230626d2d4b462aa142b1ea2c6c0ad07440c

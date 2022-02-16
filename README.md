@@ -20,7 +20,9 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) C# 101 egitimi kapsaminda olus
 
 ### Metodlar
 
-### Hazir Metodlar / String
+### Metod Over Loading
+
+### Rekursif ve Extension Metod Kullanimlari
 
 ---
 

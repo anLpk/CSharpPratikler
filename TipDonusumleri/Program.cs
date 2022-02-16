@@ -46,6 +46,7 @@ namespace TipDonusumleri
 
             // var pak = 232323232323232;
             // pak = Convert.ToString(pak);
+            // var pak = 232323232323232;
         }
 
         public static void ParseMethod()
