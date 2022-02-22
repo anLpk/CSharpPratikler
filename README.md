@@ -24,6 +24,12 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) C# 101 egitimi kapsaminda olus
 
 ### Rekursif ve Extension Metod Kullanimlari
 
+### String Metodlar
+
+### Datetime ve Math Siniflari
+
+### Generic Koleksiyonlar
+
 ---
 
 ## Installation

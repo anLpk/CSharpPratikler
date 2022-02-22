@@ -7,8 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Operatorler
-<<<<<<< HEAD
-build_property.ProjectDir = c:\Users\anilp\CSharpPratikler\Operatorler\
-=======
-build_property.ProjectDir = c:\Users\anil.pak\CSharpPratikler\Operatorler\
->>>>>>> 2fec230626d2d4b462aa142b1ea2c6c0ad07440c
+build_property.ProjectDir = c:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\CSharpPratikler\Operatorler\

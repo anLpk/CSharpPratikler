@@ -4,7 +4,7 @@ namespace Metodlar
 {
     class Program
     {
-        static void Main(string[] args)
+        public void Main(string[] args)
         {
             int a = 2;
             int b = 3;

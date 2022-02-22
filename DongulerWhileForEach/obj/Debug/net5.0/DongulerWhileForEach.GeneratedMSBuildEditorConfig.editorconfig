@@ -7,8 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = DongulerWhileForEach
-<<<<<<< HEAD
-build_property.ProjectDir = c:\Users\anilp\CSharpPratikler\DongulerWhileForEach\
-=======
-build_property.ProjectDir = c:\Users\anil.pak\CSharpPratikler\DongulerWhileForEach\
->>>>>>> 2fec230626d2d4b462aa142b1ea2c6c0ad07440c
+build_property.ProjectDir = c:\Users\anil.pak\OneDrive - Tribal Education Ltd\Desktop\CSharpPratikler\DongulerWhileForEach\

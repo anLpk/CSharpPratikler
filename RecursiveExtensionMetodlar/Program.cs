@@ -17,13 +17,13 @@ namespace RecursiveExtensionMetodlar
 
             //Extension Metodlar
             string ifade = "Zikiriye Urkmez Cengiz";
-            bool sonuc = ifade.CheckSpaces;
+            bool sonuc = ifade.CheckSpaces();
             Console.WriteLine(sonuc);
 
             if(sonuc)
               Console.WriteLine(ifade.RemoveWhiteSpaces());
-            Console.WriteLine(ifade.MakeUpperCase);
-            Console.WriteLine(ifade.MakeLowerCase);
+            Console.WriteLine(ifade.MakeUpperCase());
+            Console.WriteLine(ifade.MakeLowerCase());
         }
     }
 
