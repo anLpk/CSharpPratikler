@@ -32,6 +32,8 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) C# 101 egitimi kapsaminda olus
 
 ### Array List
 
+### Dictionary
+
 ---
 
 ## Installation
